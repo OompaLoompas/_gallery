@@ -7,7 +7,7 @@ caption: 'Το Linux From Scratch(LFS) δημιουργήθηκε από τον 
 license_url: 'https://en.wikipedia.org/wiki/Linux_From_Scratch https://www.flickr.com/photos/133825397@N08/43769468704'
 license_text: Courtesy of Wikipedia
 categories:
-  - Μορφές
+  - Λειτουργικά συστήματα
 tags:
   - Linux
   - Linux From Scratch
