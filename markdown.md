@@ -14,4 +14,6 @@ tags:
   - Markup languages
   - Markdown
   - Github
+  - John Gruber
+  - Aaron Swartz
 ---
