@@ -18,4 +18,3 @@ tags:
   - John Gruber
   - Aaron Swartz
 ---
-Markup languages
