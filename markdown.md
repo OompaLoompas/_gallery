@@ -9,6 +9,7 @@ caption: 'Η Markdown είναι μία γλώσσα σήμανσης για τ�
 license_url: 'https://en.wikipedia.org/wiki/Markdown'
 license_text: Courtesy of Wikipedia
 categories:
+  - Εργαλεία 
   - Markup languages
 tags:
   - Markup languages
@@ -17,3 +18,4 @@ tags:
   - John Gruber
   - Aaron Swartz
 ---
+Markup languages
