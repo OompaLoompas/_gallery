@@ -8,6 +8,8 @@ license_text: Courtesy of Wikipedia
 categories:
   - Γραμμή Εντολών
   - Εργαλεία
+  - Λειτουργικά συστήματα
 tags:
   - fedora-linux
+  - Linux
 ---
