@@ -7,7 +7,7 @@ license_url: "https://commons.wikimedia.org/w/index.php?curid=114062016"
 license_text: Courtesy of Wikipedia
 categories:
   - Γραμμή Εντολών
-  - Ορισμός
+  - Εργαλεία
 tags:
   - fedora-linux
 ---
