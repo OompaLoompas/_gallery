@@ -3,7 +3,7 @@ author: p19pasc
 image_url: /images/alpine-linux.png
 title: Alpine Linux
 year: 2005 
-caption: "Το Alpine Linux βασίζεται στην ασφάλεια, απλότητα και αποδοτικότητα πόρων. Χρησιμοποιεί το OpenRC για την έναρξη της διαδικασίας init και έχει το δικό του σύστημα διαχείρισης πακέτων το apk-tools(apk add,del,update,search κτλπ) και options όπως το so: για βιβλιοθήκες. Τα πακέτα τα παίρνει από mirrors και παρατηρείται έλλειψη σε σχέση με τα υπόλοιπα συστήματα Linux."
+caption: "Το Alpine Linux χαρακτηρίζεται για την ασφάλεια, αποδοτικότητα πόρων και ιδίως για την απλότητα του, επομένως έχει ελάχιστες απαιτήσεις σε επίπεδο hardware(πχ. χώρο στο δίσκο). Έχει ως packet manager apk-tools και υποστηρίζει γραφικά περιβάλλοντα όπως το XFCE. Αυτό σημαίνει ότι επιτρέπει την εύκολη διεπαφή του χρήστη, όπως σε ένα σύγχρονο λειτουργικό σύστημα. Δίνει τη δυνατότητα, παρά τα λιτά του χαρακτηριστικά, να εξυπηρετήσει ακόμα και τις καθημερνές ανάγκες των απλών χρηστών."
 license_url: "https://en.wikipedia.org/wiki/Alpine_Linux"
 license_text: Courtesy of Wikimedia 
 categories:
@@ -15,4 +15,5 @@ tags:
   - init
   - apk-tools
   - packet manager
+  - XFCE
 ---
